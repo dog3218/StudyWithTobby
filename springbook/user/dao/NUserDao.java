@@ -1,6 +1,5 @@
 package springbook.user.dao;
 
-import com.azul.crs.client.ConnectionManager;
 import springbook.user.domain.User;
 
 import java.sql.Connection;
